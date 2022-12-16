@@ -1,0 +1,8 @@
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\bin\Debug\PaiFilho.exe.config
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\bin\Debug\PaiFilho.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\bin\Debug\PaiFilho.pdb
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\obj\Debug\PaiFilho.csproj.AssemblyReference.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\obj\Debug\PaiFilho.csproj.SuggestedBindingRedirects.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\obj\Debug\PaiFilho.csproj.CoreCompileInputs.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\obj\Debug\PaiFilho.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilho\obj\Debug\PaiFilho.pdb

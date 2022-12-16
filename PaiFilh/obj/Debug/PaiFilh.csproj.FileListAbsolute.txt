@@ -1,0 +1,12 @@
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\bin\Debug\PaiFilh.exe.config
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\bin\Debug\PaiFilh.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\bin\Debug\PaiFilh.pdb
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.csproj.AssemblyReference.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.csproj.SuggestedBindingRedirects.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.Form1.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.Form2.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.Properties.Resources.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.csproj.GenerateResource.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.csproj.CoreCompileInputs.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\PaiFilh\obj\Debug\PaiFilh.pdb

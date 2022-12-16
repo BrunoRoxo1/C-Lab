@@ -1,0 +1,15 @@
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.Tl_Cadastro.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.frJogos.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.frGenero.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.frProdutor.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Cadastro\obj\Debug\Cadastro.Form1.resources

@@ -1,0 +1,16 @@
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\bin\Debug\Aluguel.exe.config
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\bin\Debug\Aluguel.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\bin\Debug\Aluguel.pdb
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.csproj.AssemblyReference.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.csproj.SuggestedBindingRedirects.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.Tn_Cadastro.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.tn_Cliente.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.tn_Genero.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.tn_Jogo.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.tn_Produtora.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.Properties.Resources.resources
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.csproj.GenerateResource.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.exe
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.pdb
+C:\Users\THERMALTAKE\Desktop\Trabalhos\Impacta\c#\ExerciciosGerais\WindowsForm\Aluguel\obj\Debug\Aluguel.Form1.resources
